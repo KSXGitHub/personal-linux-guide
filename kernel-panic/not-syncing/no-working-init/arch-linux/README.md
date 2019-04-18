@@ -12,7 +12,7 @@ Fucked up system symbolic links (such as `/usr/lib64` does not exist).
 
 **Step 1:** Boot an ArchLinux Live USB/DVD, Arch derivatives (such as Antergos, Manjaro) also work as long as they provide arch's tools
 
-**Step 2:** Enter the following command
+**Step 2:** Enter the following command as root
 
 ```sh
 # Mount your hard drive which contains the operating system that you're trying to fix
